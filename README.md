@@ -1,6 +1,6 @@
-### Hello, I am Nathan Doherty
-
-I am a back-end Software Engineer, and currently in my final year of University studying BSc Computer Science degree at Ulster University
+### Hello There
+______________________________
+My name is Nathan Doherty, I am a Software Engineer, and currently studying Computer Science at Ulster University. I am currently based in Northern Ireland
 
 #### Technologies & Tools:
   ![](https://img.shields.io/badge/Code-Java-informational?style=flat&color=2bbc8a)
