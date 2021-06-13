@@ -1,6 +1,6 @@
 ### Hello There
 ______________________________
-My name is Nathan Doherty, I am a Software Engineer, and currently studying Computer Science at Ulster University. I am currently based in Northern Ireland
+My name is Nathan Doherty, I am a Software Engineer, and recently graduated with a 1st class honours in Computer Science at Ulster University. I am currently based in Northern Ireland
 
 #### Technologies & Tools:
   ![](https://img.shields.io/badge/Code-Java-informational?style=flat&color=2bbc8a)
